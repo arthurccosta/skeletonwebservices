@@ -1,0 +1,17 @@
+/home/arthur/IdeaProjects/skeletonwebservices/src/main/java/org/example/ws/web/api/BaseController.java
+/home/arthur/IdeaProjects/skeletonwebservices/src/main/java/org/example/ws/model/Account.java
+/home/arthur/IdeaProjects/skeletonwebservices/src/main/java/org/example/ws/actuator/health/GreetingHealthIndicator.java
+/home/arthur/IdeaProjects/skeletonwebservices/src/main/java/org/example/ws/web/DefaultExceptionAttributes.java
+/home/arthur/IdeaProjects/skeletonwebservices/src/main/java/org/example/ws/service/GreetingServiceBean.java
+/home/arthur/IdeaProjects/skeletonwebservices/src/main/java/org/example/ws/batch/GreetingBatchBean.java
+/home/arthur/IdeaProjects/skeletonwebservices/src/main/java/org/example/ws/web/ExceptionAttributes.java
+/home/arthur/IdeaProjects/skeletonwebservices/src/main/java/org/example/ws/web/api/GreetingController.java
+/home/arthur/IdeaProjects/skeletonwebservices/src/main/java/org/example/ws/service/GreetingService.java
+/home/arthur/IdeaProjects/skeletonwebservices/src/main/java/org/example/ws/model/Role.java
+/home/arthur/IdeaProjects/skeletonwebservices/src/main/java/org/example/ws/service/quote/tss/Quote.java
+/home/arthur/IdeaProjects/skeletonwebservices/src/main/java/org/example/Application.java
+/home/arthur/IdeaProjects/skeletonwebservices/src/main/java/org/example/ws/service/EmailService.java
+/home/arthur/IdeaProjects/skeletonwebservices/src/main/java/org/example/ws/repository/GreetingRepository.java
+/home/arthur/IdeaProjects/skeletonwebservices/src/main/java/org/example/ws/util/AsyncResponse.java
+/home/arthur/IdeaProjects/skeletonwebservices/src/main/java/org/example/ws/model/Greeting.java
+/home/arthur/IdeaProjects/skeletonwebservices/src/main/java/org/example/ws/service/EmailServiceBean.java
