@@ -2,11 +2,11 @@
 Estudo sobre Spring Boot com base no LeanStacks
 
 
-Run
+Run:
 mvn spring-boot:run
 
-Tests
+Tests:
 mvn clean package
 
-SkipTests
+SkipTests:
 mvn clean package -DskipTests
